@@ -1,0 +1,19 @@
+# File: rust.yml
+# Author: Wildflover
+# Description: Disabled - Replaced by tauri-ci.yml
+# Status: DEPRECATED
+
+# This workflow has been replaced by tauri-ci.yml
+# Keeping this file to override the remote version
+
+name: Rust (Disabled)
+
+on:
+  workflow_dispatch:  # Manual trigger only - effectively disabled
+
+jobs:
+  placeholder:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notice
+        run: echo "This workflow is disabled. Use tauri-ci.yml instead."
