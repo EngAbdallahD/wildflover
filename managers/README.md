@@ -1,6 +1,5 @@
 # Managers Directory
 
-## Author: Wildflover
 ## Description: External tools required for mod management
 
 This directory contains external tools required for Wildflover to function properly.
@@ -39,3 +38,4 @@ The following batch scripts are included for convenience:
 
 These binary files are not included in the repository due to licensing.
 Please download them from the official source.
+
